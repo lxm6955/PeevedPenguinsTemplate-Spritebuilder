@@ -54,8 +54,8 @@
     
     [self setupCocos2dWithOptions:cocos2dSetup];
     
-    //[CCBReader load:@"Resources/Published-iOS/penguin"];
-    //[CCBReader load:@"Resources/Published-iOS/seal"];
+    [CCBReader load:@"Penguin"];
+    [CCBReader load:@"Seal"];
     
     return YES;
 }

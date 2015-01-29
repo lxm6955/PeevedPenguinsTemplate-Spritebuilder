@@ -1,5 +1,5 @@
 //
-//  CCSprite+Penguin.m
+//  Penguin.m
 //  PeevedPenguins
 //
 //  Created by Himo on 15/1/28.
@@ -8,7 +8,7 @@
 
 #import "Penguin.h"
 
-@implementation CCSprite (Penguin)
+@implementation Penguin
 
 - (id)init {
     self = [super init];

@@ -1,5 +1,5 @@
 //
-//  CCSprite+Penguin.h
+//  Penguin.h
 //  PeevedPenguins
 //
 //  Created by Himo on 15/1/28.
@@ -8,6 +8,6 @@
 
 #import "CCSprite.h"
 
-@interface CCSprite (Penguin)
+@interface Penguin : CCSprite
 
 @end

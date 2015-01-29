@@ -1,5 +1,5 @@
 //
-//  CCSprite+Seal.h
+//  Seal.h
 //  PeevedPenguins
 //
 //  Created by Himo on 15/1/28.
@@ -8,7 +8,6 @@
 
 #import "CCSprite.h"
 
-//@interface Seal:CCSprite
-@interface CCSprite (Seal)
+@interface Seal : CCSprite
 
 @end
