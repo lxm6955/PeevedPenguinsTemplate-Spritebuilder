@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		315C06E91A79E4740097A26E /* CCSprite+Penguin.m in Sources */ = {isa = PBXBuildFile; fileRef = 315C06E81A79E4740097A26E /* CCSprite+Penguin.m */; };
+		315C06EF1A79E4C40097A26E /* CCSprite+Seal.m in Sources */ = {isa = PBXBuildFile; fileRef = 315C06EE1A79E4C40097A26E /* CCSprite+Seal.m */; };
 		8392007A18EE8E3300B6C429 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8392007918EE8E3300B6C429 /* GLKit.framework */; };
 		B71F5911188484E7003F4D28 /* iPad-old.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5907188484E7003F4D28 /* iPad-old.png */; };
 		B71F5912188484E7003F4D28 /* iPad-old@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5908188484E7003F4D28 /* iPad-old@2x.png */; };
@@ -70,6 +72,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		315C06E71A79E4740097A26E /* CCSprite+Penguin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "CCSprite+Penguin.h"; path = "Source/CCSprite+Penguin.h"; sourceTree = "<group>"; };
+		315C06E81A79E4740097A26E /* CCSprite+Penguin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "CCSprite+Penguin.m"; path = "Source/CCSprite+Penguin.m"; sourceTree = "<group>"; };
+		315C06ED1A79E4C40097A26E /* CCSprite+Seal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "CCSprite+Seal.h"; path = "Source/CCSprite+Seal.h"; sourceTree = "<group>"; };
+		315C06EE1A79E4C40097A26E /* CCSprite+Seal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "CCSprite+Seal.m"; path = "Source/CCSprite+Seal.m"; sourceTree = "<group>"; };
 		8392007918EE8E3300B6C429 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		B71F5907188484E7003F4D28 /* iPad-old.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPad-old.png"; path = "Icons/iPad-old.png"; sourceTree = "<group>"; };
 		B71F5908188484E7003F4D28 /* iPad-old@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPad-old@2x.png"; path = "Icons/iPad-old@2x.png"; sourceTree = "<group>"; };
@@ -139,6 +145,10 @@
 		B737893C1807616C0076A88C /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				315C06E71A79E4740097A26E /* CCSprite+Penguin.h */,
+				315C06E81A79E4740097A26E /* CCSprite+Penguin.m */,
+				315C06ED1A79E4C40097A26E /* CCSprite+Seal.h */,
+				315C06EE1A79E4C40097A26E /* CCSprite+Seal.m */,
 				B737893D1807617C0076A88C /* AppDelegate.h */,
 				B737893E1807617C0076A88C /* AppDelegate.m */,
 				B7378992180767190076A88C /* MainScene.h */,
@@ -373,6 +383,8 @@
 				B737893F1807617C0076A88C /* AppDelegate.m in Sources */,
 				B7378994180767190076A88C /* MainScene.m in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,
+				315C06E91A79E4740097A26E /* CCSprite+Penguin.m in Sources */,
+				315C06EF1A79E4C40097A26E /* CCSprite+Seal.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
