@@ -8,6 +8,7 @@
 
 #import "CCSprite.h"
 
-@interface CCSprite (Seal)
+@interface Seal:CCSprite 
+//@interface CCSprite (Seal)
 
 @end
