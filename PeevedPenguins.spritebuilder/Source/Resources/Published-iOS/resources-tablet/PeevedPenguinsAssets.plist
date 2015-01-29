@@ -17,6 +17,19 @@
 			<key>sourceSize</key>
 			<string>{1920, 640}</string>
 		</dict>
+		<key>PeevedPenguinsAssets/background1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 643}, {1920, 640}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1920, 640}}</string>
+			<key>sourceSize</key>
+			<string>{1920, 640}</string>
+		</dict>
 		<key>PeevedPenguinsAssets/bear.png</key>
 		<dict>
 			<key>frame</key>
@@ -137,7 +150,7 @@
 		<key>PeevedPenguinsAssets/menubackground.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{760, 643}, {1136, 640}}</string>
+			<string>{{760, 1285}, {1136, 640}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
