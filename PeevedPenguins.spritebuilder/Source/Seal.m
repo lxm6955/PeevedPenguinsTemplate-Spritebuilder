@@ -6,7 +6,8 @@
 //  Copyright (c) 2015年 Apportable. All rights reserved.
 //
 
-#import "CCSprite+Seal.h"
+//#import "CCSprite+Seal.h"
+#import "Seal.h"
 
 @implementation CCSprite (Seal)
 

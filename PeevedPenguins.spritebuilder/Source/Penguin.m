@@ -6,7 +6,7 @@
 //  Copyright (c) 2015年 Apportable. All rights reserved.
 //
 
-#import "CCSprite+Penguin.h"
+#import "Penguin.h"
 
 @implementation CCSprite (Penguin)
 
