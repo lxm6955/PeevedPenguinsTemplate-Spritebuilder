@@ -8,8 +8,6 @@
 
 #import "CCSprite.h"
 
-//@interface CCSprite (Penguin)
-
-@interface Penguin:CCSprite
+@interface CCSprite (Penguin)
 
 @end

@@ -11,6 +11,7 @@
 @implementation CCSprite (Penguin)
 
 - (id)init {
+     CCLOG(@"init created");
     self = [super init];
     
     if (self) {
