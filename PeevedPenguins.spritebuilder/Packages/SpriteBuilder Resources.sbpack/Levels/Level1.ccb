@@ -719,11 +719,11 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>13.5</real>
-							<real>12.5</real>
+							<real>0.027551019564270973</real>
+							<real>0.045454546809196472</real>
 							<integer>0</integer>
-							<integer>0</integer>
-							<integer>0</integer>
+							<integer>2</integer>
+							<integer>2</integer>
 						</array>
 					</dict>
 					<dict>
@@ -843,7 +843,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>251</real>
+							<real>250.99998474121094</real>
 							<real>12.5</real>
 							<integer>0</integer>
 							<integer>0</integer>
